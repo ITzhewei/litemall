@@ -6,12 +6,13 @@
 		"postcss": true,
 		"minified": true,
 		"newFeature": true,
+		"autoAudits": false,
 		"uglifyFileName": true
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.4.0",
-	"appid": "wxa5b486c6b918ecfb",
-	"projectname": "litemall-wx",
+	"appid": "wx8ddce23acd6ad57e",
+	"projectname": "litmall",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
 	"condition": {
